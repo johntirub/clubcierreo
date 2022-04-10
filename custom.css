@@ -57,7 +57,7 @@ body{
 .left{
   width: 20%;
   height: 100vh;
-  background-color:#FEBD59;
+  background-color:#010c2b;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
