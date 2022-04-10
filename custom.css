@@ -418,7 +418,7 @@ div.loader{
 .button {
   border: none;
   outline: none;
-  background-color: #FEBC56;
+  background-color: #010c2b;
   position: relative;
   border-radius: 8px;
   letter-spacing: 0.7px;
@@ -441,7 +441,7 @@ div.loader{
 }
 .subfooter{
   border-top: 1px solid black;
-  background-image: linear-gradient(#FEBC56, black);
+  background-image: linear-gradient(#FEBC56, white);
   height: 500px;
   display:flex;
   align-items: center;
